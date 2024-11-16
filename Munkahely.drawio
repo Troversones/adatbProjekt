@@ -12,9 +12,6 @@
         <mxCell id="J8be5djoPyq5z8u-Urgu-1" value="Felhasználók" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="350" y="140" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XJ3Val_hjWEMoDBAJj5s-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="J8be5djoPyq5z8u-Urgu-3" target="XJ3Val_hjWEMoDBAJj5s-11" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="nqwOCqm9ArOqmD_4J2SY-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="J8be5djoPyq5z8u-Urgu-3" target="nqwOCqm9ArOqmD_4J2SY-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -123,6 +120,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XJ3Val_hjWEMoDBAJj5s-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="XJ3Val_hjWEMoDBAJj5s-11" target="J8be5djoPyq5z8u-Urgu-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wdO2a7Mc2enwkq9Drj_M-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XJ3Val_hjWEMoDBAJj5s-11" target="J8be5djoPyq5z8u-Urgu-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XJ3Val_hjWEMoDBAJj5s-11" value="Ki használja" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
